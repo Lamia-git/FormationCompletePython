@@ -1,0 +1,1 @@
+nous allons devoir parcourir une structure de dossiers pour aller récupérer des informations dans un fichier JSON et un fichier texte.

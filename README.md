@@ -1,1 +1,2 @@
-# FormationCompletePython
+# ExoPython
+Exo simple en Python
